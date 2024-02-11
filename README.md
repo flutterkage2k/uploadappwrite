@@ -17,4 +17,4 @@ pubspec.yaml에 dart_appwrite를 pub get 한다.
 dart ./load_questions.dart
 ```
 
-파일이 업로드 된지 확인한다.
+파일이 업로드 된지 확인한다...
